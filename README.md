@@ -6,5 +6,5 @@ I'm embarking on a project to bring a cheap & effective trading card sorter to m
 
 [See demo video here.](https://youtu.be/8nltbbyOI6Y)
 
-Email list signup for project updates:  https://forms.gle/iumqqGqnhXvxfDHw8
+[Email list signup for project updates.](https://forms.gle/iumqqGqnhXvxfDHw8)
 
